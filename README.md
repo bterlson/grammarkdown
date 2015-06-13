@@ -46,7 +46,7 @@ NamedImports : `{` ImportList `}`
 NamedImports : `{` ImportList `,` `}`
 ```
 
-You may also specify multiple left-hand-side sentances for a single production by indenting them:
+You may also specify multiple left-hand-side sentences for a single production by indenting them:
 
 ```
 NamedImports :
@@ -105,7 +105,7 @@ A *lookahead assertion* has the following operators:
 
 You can also annotate your grammar with C-style single-line and multi-line comments.
 
-For a comprehensive example of `grammarkdown` syntax, you can brows the [full grammar for ECMA-262 version 2015 (ES6)](https://github.com/rbuckton/grammarkdown/blob/master/tests/resources/es6.grammar).
+For a comprehensive example of `grammarkdown` syntax, you can browse the [full grammar for ECMA-262 version 2015 (ES6)](https://github.com/rbuckton/grammarkdown/blob/master/tests/resources/es6.grammar).
 
 ## API
 
